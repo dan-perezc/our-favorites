@@ -1,0 +1,26 @@
+This is the GIT activity
+
+Section 1 Introduction
+This is en introduction to or first Git Activity, The students will work on this file to executete 
+
+Section 2 Foods
+-ribbs
+-fish
+-beans
+
+Section 3 Animals
+-dog
+-cat
+-lion
+
+Section 4 Plants
+- oak
+- Hesperia
+- palm
+
+Section 5 schools
+-CMC
+-Pomona
+-CGU
+- 
+
